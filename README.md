@@ -2,7 +2,7 @@
 
 This was initially a final project for an art history class but I am proud of how it turned out so I though I could share it and maybe update it later. This site was meant to be an informative website about the architectural style, so it introduces it and its features while also displaying some prominent examples.
 
-This was meant to be a simple static webpage that can be served and accessed without any real setup. As of 5/5/2025 it bee continue to be this way any the only requirement to serve it is to keep the project directory structure.
+This was meant to be a simple static webpage that can be served and accessed without any real setup. As of 5/5/2025 it will continue to be this way any the only requirement to serve it is to keep the project directory structure.
 
 ## index.html
 This is the landing lage for the site. It introduces you to a brief overview of gothic architecture.
