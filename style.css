@@ -1,0 +1,50 @@
+.side-by-side {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.side-by-side figure {
+  width: 45%;
+  height: auto;
+}
+
+.side-by-side img {
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  #outside-features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  #outside-features article {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+
+  #inside-features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  #inside-features article {
+    width: 48%;
+    margin-bottom: 20px;
+  }  
+  
+  #gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  #gallery article {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+}
